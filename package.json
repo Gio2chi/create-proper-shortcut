@@ -1,0 +1,24 @@
+{
+  "name": "create-proper-shortcut",
+  "version": "1.0.0",
+  "description": "with this basic package you can create a shortcut with the icon instead of the standard one of chrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gio_A",
+  "license": "ISC",
+  "dependencies": {
+    "create-desktop-shortcuts": "^1.5.0",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "image-to-icon-converter": "^1.0.1",
+    "prompt-sync": "^4.2.0",
+    "shortcuts": "^1.8.0",
+    "windows": "^0.1.0"
+  },
+  "devDependencies": {
+    "png-to-ico": "^2.1.2"
+  }
+}
